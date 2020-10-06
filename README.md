@@ -31,6 +31,6 @@
 </a>
 
 
-<a href="https://nodejs.org/en/">
-  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<a href="https://www.typescriptlang.org/">
+  <img align="left" alt="Typescript" width="26px" src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png" />
 </a>
